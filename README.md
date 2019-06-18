@@ -12,7 +12,7 @@ The command line is then
 
 `python inspector/command.py --host <host> --port <port> --db <your_db> --user <youruser> --index <index_name> --path <your_path>`
 
-It will generate a wonderful html.<your path> is the path of the html file to be saved (e.g. home/user/test.hrml).
+It will generate a wonderful html. \<your_path\> is the path of the html file to be saved (e.g. home/user/test.hrml).
 
 It only works with BTree.
 
