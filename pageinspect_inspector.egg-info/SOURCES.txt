@@ -1,0 +1,14 @@
+README.rst
+setup.py
+inspector/__init__.py
+inspector/command.py
+inspector/generator.py
+inspector/renderer.py
+inspector/tree.py
+inspector/utils.py
+pageinspect_inspector.egg-info/PKG-INFO
+pageinspect_inspector.egg-info/SOURCES.txt
+pageinspect_inspector.egg-info/dependency_links.txt
+pageinspect_inspector.egg-info/not-zip-safe
+pageinspect_inspector.egg-info/requires.txt
+pageinspect_inspector.egg-info/top_level.txt
